@@ -1,6 +1,5 @@
 - 👋 Hi, I’m George Haworth @ghaworth
-- 👀 I’m interested in industrial automation and embedded systems
-- 🌱 I’m currently learning Rust, PLC/SCADA, FPGAs
+- 🌱 I’m currently learning Verilog/VHDL
 - 💞️ I’m looking to collaborate on any of the above
 - 📫 How to reach me: info@robust-ae.com
 
