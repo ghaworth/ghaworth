@@ -1,5 +1,5 @@
 - 👋 Hi, I’m George Haworth @ghaworth
-- 🌱 I’m currently learning Verilog/VHDL
+- 🌱 I’m currently learning MATLAB/Simulink
 - 📫 How to reach me: info@robust-ae.com
 
 <!---
