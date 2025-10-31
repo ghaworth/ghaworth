@@ -1,5 +1,5 @@
 - 👋 Hi, I’m George Haworth @ghaworth
-- 🌱 I’m currently learning MATLAB/Simulink
+- 🌱 I’m currently learning MATLAB/Simulink and Rust
 - 📫 How to reach me: info@robust-ae.com
 
 <!---
