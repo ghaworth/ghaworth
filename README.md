@@ -1,5 +1,5 @@
 - 👋 Hi, I’m George Haworth @ghaworth
-- 🌱 I’m currently learning Embedded Rust
+- 🌱 I’m currently learning Embedded Rust, Verilog/VHDL
 - 📫 How to reach me: info@robust-ae.com
 
 <!---
